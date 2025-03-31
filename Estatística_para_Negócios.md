@@ -1,5 +1,3 @@
-
-
 # **Estatística para Negócios: Uma Abordagem Prática com Exemplos e Implementação em Python**
 
 **1. Introdução à Estatística para Negócios**
