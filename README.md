@@ -4,6 +4,7 @@ Estou usando esse projeto para arquivar e complementar os meus estudos em Data S
 ## Como estou estudando
 
 Estou usando a Gemini Ai (consegui um mês grátisdo pro) e o ChatGPT para gerar esses matériais de estudos complementares. Em quase todos os videos eu pego a transcrição dela e traduzo para o português e vejoo video (esse curso não fornece a legenda para o português), depois vejo o vídeo em inglês com a legenda em inglês, isso para me ajudar a treinar o inglês. Como eu disse não faço essa dinâmica em todos osvídeos, acaba ficando cansativo.
+Os arquivos de python estou usando o Colab para fazer eles nem todos estão tão organizados...sorry. 
 
 
 
